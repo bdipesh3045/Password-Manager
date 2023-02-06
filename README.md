@@ -50,7 +50,10 @@ Run the program
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Homescreen](https://user-images.githubusercontent.com/111185281/216946466-f10f3b67-daef-48e8-946b-c26b6a69c165.jpg)
+
+![Thankyou screen](https://user-images.githubusercontent.com/111185281/216946489-3da77dad-5006-414b-8da1-83c6b8c08425.jpg)
+
 
 
 ## Support
