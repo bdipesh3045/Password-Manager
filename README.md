@@ -1,7 +1,7 @@
 
 # Password Manager 
 
-A password manager made using python which uses sqlite database to store all your password and has various features like appending, deleting and querying records. Its a very light weight and easy to use password manager tool.
+A password manager made using python which uses sqlite database to store all your password and has various features like appending, deleting and querying records. Its a very easy to use password manager tool.
 
 
 ## Authors
